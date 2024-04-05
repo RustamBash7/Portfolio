@@ -1,7 +1,8 @@
 # Portfolio
 Мое портфолио
 
-| First Header  | Second Header | Second Header |
-| ------------- | ------------- |------------- |
+| Название проекта  | Стек/инструменты | Описание проекта
+|
+| ----------------- | ---------------- |-------------=== |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
